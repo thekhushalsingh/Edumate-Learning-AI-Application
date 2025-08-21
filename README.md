@@ -43,12 +43,13 @@ SAMBA_API_KEY=your_sambanova_api_key_here
 SAMBA_API_URL=https://api.sambanova.ai/v1
 ```
 
-### 4️⃣ Run the FastAPI Server
+### 4️⃣ Run the Application
 ```bash
-uvicorn main:app --reload
+streamlit run main.py --server.port 8501
 ```
 
-The API will be available at: **http://127.0.0.1:8000**
+ You can now view your Streamlit app in your browser.
+ Local URL: http://localhost:8501
 
 ### 5️⃣ Open the Frontend
 Simply open `index.html` in your browser.
@@ -83,6 +84,8 @@ Send a student query and get an AI response.
 - **Python-dotenv** (Environment variables)
 
 ---
+## Screenshot
+!image[]()
 
 ## 👨‍💻 Author
 Developed by Khushal 🚀

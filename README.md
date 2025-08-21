@@ -85,7 +85,7 @@ Send a student query and get an AI response.
 
 ---
 ## Screenshot
-!image[]()
+![image](https://github.com/thekhushalsingh/Edumate-Learning-AI-Application/blob/main/home.png)
 
 ## 👨‍💻 Author
 Developed by Khushal 🚀

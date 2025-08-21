@@ -1,4 +1,4 @@
-# EduMate (Powered by SambaNova API)
+# EduMate-AI E-Learning Platform 📖
 
 EduMate is an AI-powered study assistant that provides intelligent answers to students' questions using SambaNova's Llama-4-Maverick-17B-128E-Instruct model.
 
@@ -6,7 +6,6 @@ EduMate is an AI-powered study assistant that provides intelligent answers to st
 
 ## 🚀 Features
 - AI-powered Q&A with SambaNova models
-- Simple FastAPI backend
 - Web interface for asking questions
 - Easy setup with environment variables
 
@@ -28,7 +27,7 @@ EduMate/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/EduMate.git
+git clone https://github.com/thekhushalsingh/Edumate-Learning-AI-Application
 cd EduMate
 ```
 
